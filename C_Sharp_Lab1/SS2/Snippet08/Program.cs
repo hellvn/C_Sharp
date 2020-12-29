@@ -10,6 +10,11 @@ namespace Snippet8
     {
         static void Main(string[] args)
         {
+            const float _pi = 3.14F;
+            float radius = 5;
+            float area = _pi * radius;
+
+            Console.WriteLine("Area of the circle is" + area);
         }
     }
 }

@@ -1,0 +1,6 @@
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet20\bin\Debug\Snippet20.exe.config
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet20\bin\Debug\Snippet20.exe
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet20\bin\Debug\Snippet20.pdb
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet20\obj\Debug\Snippet20.csproj.CoreCompileInputs.cache
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet20\obj\Debug\Snippet20.exe
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet20\obj\Debug\Snippet20.pdb

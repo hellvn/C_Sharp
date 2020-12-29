@@ -1,0 +1,7 @@
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet14\bin\Debug\Snippet14.exe.config
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet14\bin\Debug\Snippet14.exe
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet14\bin\Debug\Snippet14.pdb
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet14\obj\Debug\Snippet14.csprojAssemblyReference.cache
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet14\obj\Debug\Snippet14.csproj.CoreCompileInputs.cache
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet14\obj\Debug\Snippet14.exe
+E:\C_Sharp\C_Sharp_Lab1\SS2\Snippet14\obj\Debug\Snippet14.pdb
