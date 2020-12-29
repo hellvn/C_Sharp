@@ -16,7 +16,7 @@ namespace Snippet21
             Console.WriteLine("24 hour time is{0:HH:mm:ss tt}", date);
             Console.WriteLine("Time with seconds: {0:HH:mm:ss tt}", date);
             Console.WriteLine("Day of month: {0:m}", date);
-            Console.WriteLine("Year: {1:yyyy}", date);
+            Console.WriteLine("Year: {0:yyyy}", date);
             Console.ReadLine();
         }
     }
