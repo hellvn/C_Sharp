@@ -1,0 +1,7 @@
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet21\bin\Debug\Snippet21.exe.config
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet21\bin\Debug\Snippet21.exe
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet21\bin\Debug\Snippet21.pdb
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet21\obj\Debug\Snippet21.csprojAssemblyReference.cache
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet21\obj\Debug\Snippet21.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet21\obj\Debug\Snippet21.exe
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet21\obj\Debug\Snippet21.pdb
