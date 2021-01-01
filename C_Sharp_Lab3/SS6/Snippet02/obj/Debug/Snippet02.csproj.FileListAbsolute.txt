@@ -1,0 +1,7 @@
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet02\bin\Debug\Snippet02.exe.config
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet02\bin\Debug\Snippet02.exe
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet02\bin\Debug\Snippet02.pdb
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet02\obj\Debug\Snippet02.csprojAssemblyReference.cache
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet02\obj\Debug\Snippet02.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet02\obj\Debug\Snippet02.exe
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet02\obj\Debug\Snippet02.pdb
