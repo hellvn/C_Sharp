@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{08E0EC19-B72E-4D3F-9BB3-007DA04E60AF}</ProjectGuid>
+    <ProjectGuid>{F540508A-FF27-41AF-A644-37D52655DC6A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Noertis_Pharma</RootNamespace>
-    <AssemblyName>Noertis_Pharma</AssemblyName>
+    <RootNamespace>Snippet18</RootNamespace>
+    <AssemblyName>Snippet18</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Medicine.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sales.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
