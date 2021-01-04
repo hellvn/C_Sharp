@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Snippet04
 {
-    class Program
+    class Employees
     {
         static void Main(string[] args)
         {
+            Employees objEmp = new Employees();
         }
     }
 }
