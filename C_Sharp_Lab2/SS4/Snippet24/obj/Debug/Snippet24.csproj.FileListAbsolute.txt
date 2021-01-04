@@ -1,0 +1,6 @@
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet24\bin\Debug\Snippet24.exe.config
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet24\bin\Debug\Snippet24.exe
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet24\bin\Debug\Snippet24.pdb
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet24\obj\Debug\Snippet24.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet24\obj\Debug\Snippet24.exe
+D:\C_Sharp\C_Sharp_Lab2\SS4\Snippet24\obj\Debug\Snippet24.pdb

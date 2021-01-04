@@ -1,0 +1,6 @@
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet03\bin\Debug\Snippet03.exe.config
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet03\bin\Debug\Snippet03.exe
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet03\bin\Debug\Snippet03.pdb
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet03\obj\Debug\Snippet03.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet03\obj\Debug\Snippet03.exe
+D:\C_Sharp\C_Sharp_Lab3\SS6\Snippet03\obj\Debug\Snippet03.pdb
