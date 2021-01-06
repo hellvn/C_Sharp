@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< Updated upstream
     <ProjectGuid>{6799A5A2-9948-4449-8D3A-AD9CE35D9A1A}</ProjectGuid>
+=======
+    <ProjectGuid>{CA50903D-CD90-4EC1-9100-9CFC532E9084}</ProjectGuid>
+>>>>>>> Stashed changes
     <OutputType>Exe</OutputType>
     <RootNamespace>Snippet14</RootNamespace>
     <AssemblyName>Snippet14</AssemblyName>
