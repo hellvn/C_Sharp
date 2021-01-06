@@ -1,0 +1,7 @@
+E:\C_Sharp\C_Sharp_Lab4\ASM_Class_and_Methods\Noertis_Pharma\bin\Debug\Noertis_Pharma.exe.config
+E:\C_Sharp\C_Sharp_Lab4\ASM_Class_and_Methods\Noertis_Pharma\bin\Debug\Noertis_Pharma.exe
+E:\C_Sharp\C_Sharp_Lab4\ASM_Class_and_Methods\Noertis_Pharma\bin\Debug\Noertis_Pharma.pdb
+E:\C_Sharp\C_Sharp_Lab4\ASM_Class_and_Methods\Noertis_Pharma\obj\Debug\Noertis_Pharma.csprojAssemblyReference.cache
+E:\C_Sharp\C_Sharp_Lab4\ASM_Class_and_Methods\Noertis_Pharma\obj\Debug\Noertis_Pharma.csproj.CoreCompileInputs.cache
+E:\C_Sharp\C_Sharp_Lab4\ASM_Class_and_Methods\Noertis_Pharma\obj\Debug\Noertis_Pharma.exe
+E:\C_Sharp\C_Sharp_Lab4\ASM_Class_and_Methods\Noertis_Pharma\obj\Debug\Noertis_Pharma.pdb
