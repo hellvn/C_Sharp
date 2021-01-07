@@ -1,0 +1,7 @@
+E:\C_Sharp\C_Sharp_Lab5\Inheritance_And_Polymorphism\Company2\bin\Debug\Company2.exe.config
+E:\C_Sharp\C_Sharp_Lab5\Inheritance_And_Polymorphism\Company2\bin\Debug\Company2.exe
+E:\C_Sharp\C_Sharp_Lab5\Inheritance_And_Polymorphism\Company2\bin\Debug\Company2.pdb
+E:\C_Sharp\C_Sharp_Lab5\Inheritance_And_Polymorphism\Company2\obj\Debug\Company2.csprojAssemblyReference.cache
+E:\C_Sharp\C_Sharp_Lab5\Inheritance_And_Polymorphism\Company2\obj\Debug\Company2.csproj.CoreCompileInputs.cache
+E:\C_Sharp\C_Sharp_Lab5\Inheritance_And_Polymorphism\Company2\obj\Debug\Company2.exe
+E:\C_Sharp\C_Sharp_Lab5\Inheritance_And_Polymorphism\Company2\obj\Debug\Company2.pdb
