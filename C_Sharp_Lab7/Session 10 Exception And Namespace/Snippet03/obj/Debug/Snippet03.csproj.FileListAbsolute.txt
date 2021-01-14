@@ -1,0 +1,6 @@
+E:\C_Sharp\C_Sharp_Lab7\Session 10 Exception And Namespace\Snippet03\bin\Debug\Snippet03.exe.config
+E:\C_Sharp\C_Sharp_Lab7\Session 10 Exception And Namespace\Snippet03\bin\Debug\Snippet03.exe
+E:\C_Sharp\C_Sharp_Lab7\Session 10 Exception And Namespace\Snippet03\bin\Debug\Snippet03.pdb
+E:\C_Sharp\C_Sharp_Lab7\Session 10 Exception And Namespace\Snippet03\obj\Debug\Snippet03.csproj.CoreCompileInputs.cache
+E:\C_Sharp\C_Sharp_Lab7\Session 10 Exception And Namespace\Snippet03\obj\Debug\Snippet03.exe
+E:\C_Sharp\C_Sharp_Lab7\Session 10 Exception And Namespace\Snippet03\obj\Debug\Snippet03.pdb
