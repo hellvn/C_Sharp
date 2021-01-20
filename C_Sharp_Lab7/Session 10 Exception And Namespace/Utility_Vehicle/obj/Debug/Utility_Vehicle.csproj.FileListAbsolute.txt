@@ -1,0 +1,2 @@
+E:\C_Sharp\C_Sharp_Lab7\Session 10 Exception And Namespace\Utility_Vehicle\obj\Debug\Utility_Vehicle.csprojAssemblyReference.cache
+E:\C_Sharp\C_Sharp_Lab7\Session 10 Exception And Namespace\Utility_Vehicle\obj\Debug\Utility_Vehicle.csproj.CoreCompileInputs.cache

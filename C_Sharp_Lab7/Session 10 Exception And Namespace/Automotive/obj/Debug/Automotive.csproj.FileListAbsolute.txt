@@ -1,0 +1,1 @@
+E:\C_Sharp\C_Sharp_Lab7\Session 10 Exception And Namespace\Automotive\obj\Debug\Automotive.csproj.CoreCompileInputs.cache
