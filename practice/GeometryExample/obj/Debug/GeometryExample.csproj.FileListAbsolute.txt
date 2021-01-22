@@ -1,0 +1,7 @@
+D:\C_Sharp\practice\GeometryExample\obj\Debug\GeometryExample.csprojAssemblyReference.cache
+D:\C_Sharp\practice\GeometryExample\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+D:\C_Sharp\practice\GeometryExample\bin\Debug\GeometryExample.exe.config
+D:\C_Sharp\practice\GeometryExample\bin\Debug\GeometryExample.exe
+D:\C_Sharp\practice\GeometryExample\bin\Debug\GeometryExample.pdb
+D:\C_Sharp\practice\GeometryExample\obj\Debug\GeometryExample.exe
+D:\C_Sharp\practice\GeometryExample\obj\Debug\GeometryExample.pdb
