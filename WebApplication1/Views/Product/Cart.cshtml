@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+    WebApplication1.Models.Cart cart = Session["cart"] != null ? (WebApplication1.Models.Cart)Session["cart"] : new WebApplication1.Models.Cart();
+}
+
+<h2>Giỏ hàng</h2>
+@if(cart.CartItems.Count > 0)
+            {
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Tên sản phẩm</th>
+                            <th>Đơn giá</th>
+                            <th>Số lượng</th>
+                            <th>Thành tiền</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                        <tbody>
+                            @foreach (var item in cart.CartItems)
+                            {
+                                decimal total = item.Quantity * item.Product.Price;
+                            <tr>
+                                <td>@item.Product.Id</td>
+                                <td>@item.Product.Name</td>
+                                <td>@item.Product.Price</td>
+                                <td>@item.Quantity</td>
+                                <td>@total</td>
+                                <td>@Html.ActionLink("Delete", "RemoveItem", new { id = item.Product.Id })</td>
+                            </tr>
+                            }
+                        </tbody>
+                    <tfoot>
+                        <tr>
+                            <td class="text-right" colspan="6">
+                                Tổng: <span class="text-danger">@cart.GrandTotal</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-right" colspan="6">
+                                <a href="@Url.Action("CheckOut")" class="btn btn-success">Đặt hàng</a>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+            }
+            else
+            {
+    <p class="text-danger">Không có sản phẩm nào trong giỏ hàng</p>
+            }
+

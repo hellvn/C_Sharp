@@ -1,0 +1,58 @@
+﻿
+@{
+    @model WebApplication1.Models.Category
+
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<h1>
+    @ViewData["Message"]
+</h1>
+<h2>Times: @ViewData["CurrentTime"]</h2>
+
+<h2>dung voi dang viewbag</h2>
+
+<h3>
+    @ViewBag.Message
+</h3>
+<p>
+    @ViewBag.CurrentTime
+</p>
+@{ 
+    //day la noi viet code C#
+    var products = new string[] { "laptop", "PC", "Telephone" };
+}
+<ul>
+    @foreach (var product in products)
+    {
+                <li>Product: @product</li>
+    }
+</ul>
+<a href="~/Home/About">About Us</a><br/>
+@Html.ActionLink("Home", "Index", "Home")
+
+<h2>Start Form Login</h2>
+@{Html.BeginForm("Create", "Category");}
+    @Html.Label("Email")
+    @Html.TextBox("email")<br/>
+    
+    @Html.Label("Password")
+    @Html.Password("password")<br/>
+
+    @Html.DropDownList("city", new SelectList(new[] {"Ha Noi", "Sai Gon"}),"Chon Tinh/Thanh Pho")<br />
+
+    @Html.RadioButton("gender","male",true)Nam<br />
+    @Html.RadioButton("gender", "female")Nu<br />
+
+    @Html.CheckBox("Rememmber")
+    @Html.Label("Remember me")<br />
+
+    <button type="submit">Submit</button>
+@{Html.EndForm();}
+<br />
+<h3>Thong tin danh muc</h3>
+<h3>Ten: @Model.Name</h3>
+<h3>Anh: @Model.Image</h3>
+<h3>Mo ta: @Model.Description</h3>
+
