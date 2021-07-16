@@ -22,5 +22,7 @@ namespace WebApplication1.Context
 
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderItem> OrderItems { get; set; }
+
+        public DbSet<User> Users { get; set; }
     }
 }

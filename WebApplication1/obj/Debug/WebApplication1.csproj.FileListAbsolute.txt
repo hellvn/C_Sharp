@@ -80,3 +80,4 @@ D:\C_Sharp\WebApplication1\bin\EntityFramework.dll
 D:\C_Sharp\WebApplication1\bin\EntityFramework.SqlServer.dll
 D:\C_Sharp\WebApplication1\bin\EntityFramework.xml
 D:\C_Sharp\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\C_Sharp\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache

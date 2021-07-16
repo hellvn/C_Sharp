@@ -97,7 +97,7 @@ namespace WebApplication1.Controllers
                 cart.AddToCart(item);
                 Session["cart"] = cart;
             }
-            catch(Exception e)
+            catch(Exception)
             {
                 return HttpNotFound();
             }
@@ -116,7 +116,7 @@ namespace WebApplication1.Controllers
                 cart.RemoveItem((int)id);
                 Session["cart"] = cart;// theem session
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 return HttpNotFound();
             }
@@ -249,7 +249,7 @@ namespace WebApplication1.Controllers
                 Session["cart"] = null; //xoa gio hang sau khi order
             }
 
-            return RedirectToAction("CheckoutSuccess");
+            return Redirect("http://sandbox.vnpayment.vn/tryitnow/Home/CreateOrder");
         }
         public string CheckoutSuccess()
         {
