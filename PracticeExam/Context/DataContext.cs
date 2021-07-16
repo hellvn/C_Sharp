@@ -15,12 +15,12 @@ namespace PracticeExam.Context
 
         }
 
-        public DbSet<ClassRoom> ClassRooms { get; set; }
+        public System.Data.Entity.DbSet<PracticeExam.Models.Subject> Subjects { get; set; }
 
-        public DbSet<Faculty> Faculties { get; set; }
+        public System.Data.Entity.DbSet<PracticeExam.Models.ClassRoom> ClassRooms { get; set; }
 
-        public DbSet<Exam> Exams { get; set; }
+        public System.Data.Entity.DbSet<PracticeExam.Models.Faculty> Faculties { get; set; }
 
-        public DbSet<Subject> Subjects { get; set; }
+        public System.Data.Entity.DbSet<PracticeExam.Models.Exam> Exams { get; set; }
     }
 }

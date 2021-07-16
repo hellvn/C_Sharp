@@ -18,7 +18,7 @@ namespace PracticeExam.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            var exams = db.Exams.Include(e => e.ClassRoom).Include(e => e.Faculty);
+            var exams = db.Exams.Include(e => e.ClassRoom).Include(e => e.Faculty).Include(e => e.Subject);
             return View(exams.ToList());
         }
 
@@ -42,6 +42,7 @@ namespace PracticeExam.Controllers
         {
             ViewBag.ClassRoomId = new SelectList(db.ClassRooms, "Id", "Name");
             ViewBag.FacultyId = new SelectList(db.Faculties, "Id", "Name");
+            ViewBag.SubjectId = new SelectList(db.Subjects, "Id", "Name");
             return View();
         }
 
@@ -61,6 +62,7 @@ namespace PracticeExam.Controllers
 
             ViewBag.ClassRoomId = new SelectList(db.ClassRooms, "Id", "Name", exam.ClassRoomId);
             ViewBag.FacultyId = new SelectList(db.Faculties, "Id", "Name", exam.FacultyId);
+            ViewBag.SubjectId = new SelectList(db.Subjects, "Id", "Name", exam.SubjectId);
             return View(exam);
         }
 
@@ -78,6 +80,7 @@ namespace PracticeExam.Controllers
             }
             ViewBag.ClassRoomId = new SelectList(db.ClassRooms, "Id", "Name", exam.ClassRoomId);
             ViewBag.FacultyId = new SelectList(db.Faculties, "Id", "Name", exam.FacultyId);
+            ViewBag.SubjectId = new SelectList(db.Subjects, "Id", "Name", exam.SubjectId);
             return View(exam);
         }
 
@@ -96,6 +99,7 @@ namespace PracticeExam.Controllers
             }
             ViewBag.ClassRoomId = new SelectList(db.ClassRooms, "Id", "Name", exam.ClassRoomId);
             ViewBag.FacultyId = new SelectList(db.Faculties, "Id", "Name", exam.FacultyId);
+            ViewBag.SubjectId = new SelectList(db.Subjects, "Id", "Name", exam.SubjectId);
             return View(exam);
         }
 
